@@ -2,15 +2,15 @@
 
 ## Description
 
-##Technologies Used
+## Technologies Used
 * Java - version 11.0.16
 * Spring Framework - version 5.3.10
 * 
-##Features
+## Features
 
-##Getting Started
+## Getting Started
 
-##Usage
+## Usage
 
-##License
+## License
 This project uses the following license: 
