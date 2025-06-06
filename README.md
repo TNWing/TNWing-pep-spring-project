@@ -8,6 +8,10 @@ This Java repository serves as the a backend for a hypothetical social media app
 * Spring Framework - version 5.3.10
 
 ## Features
+* User Registration and Login Handlers.
+* Message creation, modification, and deletion.
+* Retrieving messages from a given account.
+* Retrieving a specific message.
 
 ## Getting Started
 
